@@ -1,0 +1,30 @@
+/* a {
+  color: #0e66fb !important;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+    color: #3091d1 !important;
+}
+a:visited {
+    color: #e72420 !important;
+} */
+
+.wy-menu-vertical header,
+.wy-menu-vertical p.caption {
+  color: red;
+  height: 32px;
+  line-height: 32px;
+  padding: 0 1.618em;
+  margin: 12px 0 0;
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 85%;
+  white-space: nowrap;
+}
+
+.custom-quick-title::before {
+  content: " "; /* 可以是文字或者其他内容 */
+  margin-right: 10px; /* 根据需要调整 */
+}
