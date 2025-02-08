@@ -76,3 +76,14 @@ html_theme_options = {
     'style_nav_header_background': 'red',
     'includehidden': False
 }
+
+# 配置源代码链接
+html_context = {
+    'display_github': True,  # 在页面上显示一个指向 GitHub 的链接
+    'github_user': 'LyiL',  # GitHub 用户名
+    'github_repo': 'rs_wiki_cn',  # GitHub 仓库名
+    'github_version': 'master/',  # GitHub 中文档的路径（通常是分支名和docs文件夹）
+    'conf_py_path': 'source/',  # conf.py 的路径，相对于 github_repo 的根目录
+    'root_path_parts':'introduction/',  # 示例
+    'source_suffix': '.md',  # 示例
+}
