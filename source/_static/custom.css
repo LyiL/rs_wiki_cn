@@ -23,8 +23,3 @@ a:visited {
   font-size: 85%;
   white-space: nowrap;
 }
-
-.custom-quick-title::before {
-  content: " "; /* 可以是文字或者其他内容 */
-  margin-right: 10px; /* 根据需要调整 */
-}
