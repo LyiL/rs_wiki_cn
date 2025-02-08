@@ -45,7 +45,21 @@ Welcome to RoboSense !
     :caption: 应用案例
     :numbered:
 
-    application_case/cases.md
+    application_case/case1.md
+    application_case/case2.md
+    application_case/case3.md
+    application_case/case4.md
+    application_case/case5.md
+    application_case/case6.md
+    application_case/case7.md
+    application_case/case8.md
+    application_case/case9.md
+    application_case/case10.md
+    application_case/case11.md
+    application_case/case12.md
+    application_case/case13.md
+    application_case/case14.md
+    .. application_case/cases.md
 
 .. toctree::
     :maxdepth: 0
