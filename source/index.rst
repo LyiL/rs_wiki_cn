@@ -10,18 +10,13 @@ Welcome to RoboSense !
     :numbered:
 
     introduction/sensor.md
-    introduction/developmentBoard.md
-    .. introduction/production.rst
-    .. introduction/livox_scanning_pattern.rst
-    .. introduction/Point_Cloud_Characteristics_and_Coordinate_System .rst
-    .. introduction/cases.rst
+    introduction/development_board.md
 
 .. toctree::
     :caption: 快速开始
     :numbered:
 
     introduction/quickStart.md
-    .. tutorials/index.rst
 
 .. toctree::
     :maxdepth: 0
@@ -29,9 +24,13 @@ Welcome to RoboSense !
     :numbered:
 
     sdk/driver.md
-    .. data_summary/Livox_data_summary.rst
-    .. data_summary/third_part_summary.rst
-    .. data_summary/dataset.rst
+    sdk/time_sync.md
+    sdk/tools.md
+    sdk/localization.md
+    sdk/slam.md
+    sdk/target_test.md
+    sdk/semantic_segmentation.md
+    sdk/visual_fusion.md
 
 .. toctree::
     :maxdepth: 0
@@ -40,21 +39,13 @@ Welcome to RoboSense !
 
     data_set/target.md
     data_set/identify.md
-    .. data_summary/Livox_data_summary.rst
-    .. data_summary/third_part_summary.rst
-    .. data_summary/dataset.rst
 
 .. toctree::
     :maxdepth: 0
     :caption: 应用案例
     :numbered:
 
-    application_case/case.md
-    .. application_case/case2.md
-    .. application_case/case3.md
-    .. data_summary/Livox_data_summary.rst
-    .. data_summary/third_part_summary.rst
-    .. data_summary/dataset.rst 
+    application_case/cases.md
 
 .. toctree::
     :maxdepth: 0
