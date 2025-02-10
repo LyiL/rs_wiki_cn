@@ -16,7 +16,7 @@ Welcome to RoboSense !
     :caption: 快速开始
     :numbered:
 
-    introduction/quickStart.md
+    quick_start/active_camera.md
 
 .. toctree::
     :maxdepth: 0
