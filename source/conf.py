@@ -73,7 +73,7 @@ source_suffix = {
 }
 
 html_theme_options = {
-    'style_nav_header_background': 'red',
+    'style_nav_header_background': '#e72420',
     'includehidden': False
 }
 
