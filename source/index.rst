@@ -9,8 +9,8 @@ Welcome to RoboSense !
     :caption: 产品
     :numbered:
 
-    introduction/sensor.md
-    introduction/development_board.md
+    product/sensor.md
+    product/development_board.md
 
 .. toctree::
     :caption: 快速开始

@@ -84,6 +84,6 @@ html_context = {
     'github_repo': 'rs_wiki_cn',  # GitHub 仓库名
     'github_version': 'master/',  # GitHub 中文档的路径（通常是分支名和docs文件夹）
     'conf_py_path': 'source/',  # conf.py 的路径，相对于 github_repo 的根目录
-    'root_path_parts': 'introduction/',  # 示例
+    'root_path_parts': 'product/',  # 示例
     'source_suffix': '.md',  # 示例
 }
