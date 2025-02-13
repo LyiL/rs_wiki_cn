@@ -11,3 +11,13 @@
   font-size: 85%;
   white-space: nowrap;
 }
+/* 隐藏右侧广告 */
+#readthedocs-ea {
+  display: none;
+}
+
+.wy-breadcrumbs-translate {
+  margin-right: 8px;
+  float: right;
+  padding-top: 4px !important;
+}
