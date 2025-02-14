@@ -36,14 +36,19 @@
 }
 
 .wy-breadcrumbs-aside {
-  position: absolute;
-  top: 0;
-  right: 0;
+  position: relative;
+  top: -1.618em;
+  right: -3.236em;
 }
 
 @media screen and (max-width: 768px) {
   .wy-breadcrumbs-translate {
     margin-right: 8px;
+  }
+  .wy-breadcrumbs-aside {
+    position: absolute;
+    top: 0;
+    right: 0;
   }
   .wy-breadcrumbs-aside svg {
     fill: #fff !important;
