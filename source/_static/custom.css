@@ -11,13 +11,47 @@
   font-size: 85%;
   white-space: nowrap;
 }
+.wy-menu-vertical a:active {
+  background-color: #000;
+}
+.wy-nav-side {
+  background: #181818;
+}
+.wy-side-nav-search input[type=text] {
+  border-color: #e72420;
+}
+
 /* 隐藏右侧广告 */
 #readthedocs-ea {
   display: none;
+  a:visited {
+    color: #2980b9;
+  }
 }
 
 .wy-breadcrumbs-translate {
-  margin-right: 8px;
+  margin-right: 24px;
   float: right;
   padding-top: 4px !important;
+}
+
+.wy-breadcrumbs-aside {
+  position: relative;
+  top: -1.618em;
+  right: -3.236em;
+}
+
+@media screen and (max-width: 768px) {
+  .wy-breadcrumbs-translate {
+    margin-right: 8px;
+  }
+  .wy-breadcrumbs-aside {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .wy-breadcrumbs-aside svg {
+    fill: #fff !important;
+    color: #e72420 !important;
+  }
 }
