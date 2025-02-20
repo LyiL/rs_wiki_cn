@@ -2,8 +2,6 @@
 Welcome to RoboSense !
 ========================================
 
-.. .. image:: image/robosense_logo.png
-
 .. toctree::
     :maxdepth: 0
     :caption: 产品
@@ -58,7 +56,6 @@ Welcome to RoboSense !
     cases/case11.md
     cases/case12.md
     cases/case13.md
-    .. cases/cases.md
 
 .. toctree::
     :maxdepth: 0

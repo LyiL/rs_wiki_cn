@@ -1,3 +1,4 @@
+/* 左侧menu样式调整 */
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption {
   color: #e72420;
@@ -29,6 +30,7 @@
   }
 }
 
+/* 面包屑样式调整 */
 .wy-breadcrumbs-translate {
   margin-right: 24px;
   float: right;
