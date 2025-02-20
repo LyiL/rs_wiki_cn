@@ -23,11 +23,7 @@ Mac OS 11以上 M1/2/Intel
 
 
 **软件准备：** [下载链接](https://xxx.com/download.7z)   
-<!-- [下载压缩包](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/Download/update/Livox%20Viewer%200.8.0.7z) -->
 
-<!-- <a href="https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf" target="_blank">文件</a> -->
-
-<!-- [下载文件](https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/downloads/Livox%20%E7%82%B9%E4%BA%91%E7%89%B9%E6%80%A7.pdf)   -->
 
  **软件使用：**  
 - 检查设备是否正常连接  
