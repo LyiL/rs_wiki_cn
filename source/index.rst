@@ -8,13 +8,13 @@ Welcome to RoboSense !
     :numbered:
 
     product/sensor.md
-    product/development_board.md
+    product/accessory.md
 
 .. toctree::
     :caption: 快速开始
     :numbered:
 
-    quick_start/active_camera.md
+    quick_start/active_viewer.md
 
 .. toctree::
     :maxdepth: 0
@@ -26,6 +26,8 @@ Welcome to RoboSense !
     sdk/tools.md
     sdk/localization.md
     sdk/slam.md
+    sdk/3d.md
+    sdk/dense_depth_estimation.md
     sdk/target_test.md
     sdk/semantic_segmentation.md
     sdk/visual_fusion.md
