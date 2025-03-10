@@ -3,5 +3,6 @@
 
 <iframe width="100%" height="315" src="https://cdn.robosense.cn/AC1dense_depth_net.mp4" frameborder="0" allowfullscreen></iframe>  
 
+视频数据：  
 
-[点击了解详情](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/perception)   
+详细代码：[AC1 Dense Depth](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/perception)   
