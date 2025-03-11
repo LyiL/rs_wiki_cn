@@ -50,7 +50,7 @@ Radxa ROCK5B+ 是一款基于 RK3588 芯片组的优雅单板计算机（SBC）�
 </div>
 
 
-开发板详细链接：[点击了解详情](https://radxa.com/products/rock5/5bp)  
+开发板详细链接：[radxa rock5+](https://radxa.com/products/rock5/5bp)  
 
 镜像下载：  
 [loader](https://cdn.robosense.cn/AC1rk3588_spl_loader_v1.15.113.bin)  
