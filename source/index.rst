@@ -15,17 +15,18 @@ Welcome to RoboSense !
     :caption: AC  Studio
     :numbered:
 
-    quick_start/active_viewer.md
-    sdk/driver.md
-    sdk/time_sync.md
-    sdk/tools.md
-    sdk/visual_fusion.md
-    sdk/localization.md
-    sdk/slam.md
-    sdk/3d.md
-    sdk/dense_depth_estimation.md
-    sdk/target_test.md
-    sdk/semantic_segmentation.md
+    ac_studio/ac_studio.md
+    ac_studio/active_viewer.md
+    ac_studio/driver.md
+    ac_studio/time_sync.md
+    ac_studio/tools.md
+    ac_studio/visual_fusion.md
+    ac_studio/localization.md
+    ac_studio/slam.md
+    ac_studio/3d.md
+    ac_studio/dense_depth_estimation.md
+    ac_studio/target_test.md
+    ac_studio/semantic_segmentation.md
 
 .. toctree::
     :maxdepth: 0
