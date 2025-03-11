@@ -11,26 +11,21 @@ Welcome to RoboSense !
     product/accessory.md
 
 .. toctree::
-    :caption: 快速开始
+    :maxdepth: 0
+    :caption: AC  Studio
     :numbered:
 
     quick_start/active_viewer.md
-
-.. toctree::
-    :maxdepth: 0
-    :caption: RoboSense SDK
-    :numbered:
-
     sdk/driver.md
     sdk/time_sync.md
     sdk/tools.md
+    sdk/visual_fusion.md
     sdk/localization.md
     sdk/slam.md
     sdk/3d.md
     sdk/dense_depth_estimation.md
     sdk/target_test.md
     sdk/semantic_segmentation.md
-    sdk/visual_fusion.md
 
 .. toctree::
     :maxdepth: 0

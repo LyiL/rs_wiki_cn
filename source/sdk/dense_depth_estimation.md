@@ -1,6 +1,21 @@
 # 稠密深度估计  
-输入单帧图像和点云，通过PromptDA算法生成基于图像分辨率的稠密深度图，进行三维场景重建。  
+输入单帧图像和点云，通过PromptDA算法生成基于图像分辨率的稠密深度图，进行三维场景重建。 
 
+以下视频提供了桃园之光图书馆的稠密深度估计离线演示效果，主要使用的硬件配置为  
+<div class="wy-table-responsive">
+    <table class="docutils align-default">
+        <tbody>
+            <tr class="row-even">
+                <td>计算平台</td>
+                <td>CPU: Intel® Xeon(R) Gold 6230R CPU @ 2.10GHz x 104 <br> GPU: NVIDIA A40 <br> MEM: 64G </td>
+            </tr>
+            <tr class="row-odd">
+                <td>传感器</td>
+                <td>AC1</td>
+            </tr>
+        </tbody>
+    </table>
+</div> 
 <iframe width="100%" height="315" src="https://cdn.robosense.cn/AC1dense_depth_net.mp4" frameborder="0" allowfullscreen></iframe>  
 
 视频数据：  
