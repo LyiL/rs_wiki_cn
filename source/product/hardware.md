@@ -46,7 +46,7 @@ Radxa ROCK5B+ 是一款基于 RK3588 芯片组的优雅单板计算机（SBC）�
     </tbody>
 </table> 
 
-开发板详细链接：[radxa rock5+](https://radxa.com/products/rock5/5bp)  
-LLinux Loader 文件：[RK3588_SPL_Loader_v1.15.113](https://cdn.robosense.cn/AC_wiki/rk3588_spl_loader_v1.15.113.bin)  
-Linux 镜像：[debian12 系统镜像](https://cdn.robosense.cn/AC_wiki/rock-5b-plus_bookworm_kde_b2.output.img.xz)  
+开发板详细链接：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[radxa rock5+](https://radxa.com/products/rock5/5bp)  
+LLinux Loader 文件：&nbsp;[RK3588_SPL_Loader_v1.15.113](https://cdn.robosense.cn/AC_wiki/rk3588_spl_loader_v1.15.113.bin)  
+Linux 镜像：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[debian12 系统镜像](https://cdn.robosense.cn/AC_wiki/rock-5b-plus_bookworm_kde_b2.output.img.xz)  
 Linux 镜像烧录指南：[radxa develop linux](https://docs.radxa.com/rock5/rock5b/low-level-dev/maskrom/linux)  
