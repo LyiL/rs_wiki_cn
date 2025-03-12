@@ -4,9 +4,9 @@ Driver 是 RoboSense 机器人传感器产品的驱动。它基于 C/C++ 语言�
 详细代码：[AC1 Driver](http://gitlab.robosense.cn/rs_share/rslidar/rs_driver/-/tree/dev_opt_ac1.2)   
 
 ## ROS Driver  
-ROS driver是一个全新的 ROS1 包，专门用于连接 RoboSense 生产的机器人传感器产品。该驱动程序可以在安装了 ROS1  noetic环境的 ubuntu20.04、ARM Debian12等操作系统下运行。  
+ROS driver 是一个全新的 ROS 包，专门用于连接 RoboSense 生产的机器人传感器产品。该驱动程序可以在安装了 ROS noetic 环境的 ubuntu20.04、ARM Debian12 等操作系统下运行。  
 详细代码：[AC1 ROS Driver](http://10.10.0.20/super_sensor_sdk/ros_ac_sdk_infra/-/tree/main)  
 
 ## ROS2 Driver  
-ROS2 driver是一个全新的 ROS2 包，专门用于连接 RoboSense 生产的机器人传感器产品。该驱动程序可以在安装了 ROS2 环境（humble、jazzy）的 ubuntu18.04/20.04/22.04，ARM Debian12等操作系统下运行。  
+ROS2 driver 是一个全新的 ROS2 包，专门用于连接 RoboSense 生产的机器人传感器产品。该驱动程序可以在安装了 ROS2 环境（humble、jazzy）的 ubuntu18.04/20.04/22.04，ARM Debian12 等操作系统下运行。  
 详细代码：[AC1 ROS2 Driver](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/sdk_infra/-/tree/main/modules/ros_metas) 

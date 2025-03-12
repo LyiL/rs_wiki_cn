@@ -1,7 +1,7 @@
 # 目标检测与识别  
 通过 Yolov8 检测模型对图像中的主要障碍物（例如人、车等）进行识别，得到目标的类别与位置。  
 
-以下视频提供了速腾前台的行人检测离线演示效果，主要使用的硬件配置为  
+以下视频提供了速腾前台的行人检测离线演示效果，主要使用的硬件配置为：  
 <div class="wy-table-responsive">
     <table class="docutils align-default">
         <tbody>

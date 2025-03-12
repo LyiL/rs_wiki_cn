@@ -3,7 +3,7 @@
 - msf_localization 是基于 **ESKF** 框架的融合定位模块，可提供只基于 **imu+轮速** 的相对定位信息以及融合 **点云定位结果** 的全局定位信息，该模块也可接入其他传感器观测进行后续拓展；
 - lidar_localization 是基于点云地图的点云定位模块，使用 ceres 进行点云匹配，使用PCL进行点云预处理。  
 
-以下视频提供了移动轮式小车定位实时演示效果，主要使用的硬件配置为  
+以下视频提供了移动轮式小车定位实时演示效果，主要使用的硬件配置为：  
 <div class="wy-table-responsive">
     <table class="docutils align-default">
         <tbody>

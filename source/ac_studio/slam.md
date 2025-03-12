@@ -1,7 +1,7 @@
 # SLAM  
 一个融合 LiDAR、视觉和 IMU 等多传感器紧耦合里程计系统。基于 HKU-MARS 实验室开源的 FAST-LIVO 工程开发，针对 Active Camera 进行专门的适配和优化，能够实时输出 Active Camera 的姿态，并生成带颜色信息的三维点云。  
 
-以下视频提供了攀登赤湾左炮台的 SLAM 离线演示效果，主要使用的硬件配置为  
+以下视频提供了攀登赤湾左炮台的 SLAM 离线演示效果，主要使用的硬件配置为：  
 
 <div class="wy-table-responsive">
     <table class="docutils align-default">

@@ -1,4 +1,4 @@
-# Active Viewer  
+# AC Viewer  
 
 AC Viewer 是一款专为 Active Camera 设计的软件，可用于实时显示连接至计算机的所有 Active Camera 的数据（包括点云、图像等）。通过 AC Viewer，用户可轻松查看、记录并储存传感器数据，以便后期使用。  
 

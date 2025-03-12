@@ -1,9 +1,8 @@
 # 配件
 ## 开发板  
 ### Radxa ROCK5B+  
-<!-- ![图片alt](../image/development_board.png) -->
 
-Radxa ROCK5B+ 是一款基于 RK3588 芯片组的优雅单板计算机（SBC），由 Radxa 公司设计，主要面向开发者、创客及高性能嵌入式应用场景，其参数规格如下所示  
+Radxa ROCK5B+ 是一款基于 RK3588 芯片组的优雅单板计算机（SBC），由 Radxa 公司设计，主要面向开发者、创客及高性能嵌入式应用场景，其参数规格如下所示：  
 
 <div class="wy-table-responsive">
     <table class="docutils align-default">
@@ -51,8 +50,6 @@ Radxa ROCK5B+ 是一款基于 RK3588 芯片组的优雅单板计算机（SBC）�
 
 
 开发板详细链接：[radxa rock5+](https://radxa.com/products/rock5/5bp)  
-
-镜像下载：  
-[loader](https://cdn.robosense.cn/AC1rk3588_spl_loader_v1.15.113.bin)  
-[debian12系统镜像](https://cdn.robosense.cn/AC1rock-5b-plus_bookworm_kde_b2.output.img.xz)  
-[系统镜像烧录说明](https://docs.radxa.com/rock5/rock5b/low-level-dev/maskrom/linux)  
+Linux Loader 文件下载：[RK3588_SPL_Loader_v1.15.113](https://cdn.robosense.cn/AC1rk3588_spl_loader_v1.15.113.bin)  
+Linux 镜像下载：[debian12 系统镜像](https://cdn.robosense.cn/AC1rock-5b-plus_bookworm_kde_b2.output.img.xz)  
+Linux 镜像烧录指南：[radxa develop linux](https://docs.radxa.com/rock5/rock5b/low-level-dev/maskrom/linux)  
