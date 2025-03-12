@@ -8,7 +8,7 @@ Welcome to RoboSense !
     :numbered:
 
     product/sensor.md
-    product/accessory.md
+    product/hardware.md
 
 .. toctree::
     :maxdepth: 0
