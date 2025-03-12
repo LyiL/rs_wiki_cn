@@ -4,25 +4,23 @@
 - lidar_localization 是基于点云地图的点云定位模块，使用 ceres 进行点云匹配，使用PCL进行点云预处理。  
 
 以下视频提供了移动轮式小车定位实时演示效果，主要使用的硬件配置为：  
-<div class="wy-table-responsive">
-    <table class="docutils align-default">
-        <tbody>
-            <tr class="row-even">
-                <td>计算平台</td>
-                <td>CPU: Intel® Core™ i7-11700 @ 2.50GHz × 16 <br> MEM: 16GB</td>
-            </tr>
-            <tr class="row-odd">
-                <td>传感器</td>
-                <td>AC1</td>
-            </tr>
-            <tr class="row-even">
-                <td>移动机器人</td>
-                <td>轮式移动平台</td>
-            </tr>
-        </tbody>
-    </table>
-</div> 
 
+<table class="docutils align-default">
+    <tbody>
+        <tr class="row-even">
+            <td>计算平台</td>
+            <td>CPU: Intel® Core™ i7-11700 @ 2.50GHz × 16 <br> MEM: 16GB</td>
+        </tr>
+        <tr class="row-odd">
+            <td>传感器</td>
+            <td>AC1</td>
+        </tr>
+        <tr class="row-even">
+            <td>移动机器人</td>
+            <td>轮式移动平台</td>
+        </tr>
+    </tbody>
+</table>  
 <iframe style="margin-bottom: 24px;" width="100%" height="424" src="https://cdn.robosense.cn/AC1localization_demo.mp4" frameborder="0" allowfullscreen></iframe>  
 
 视频数据：[Rooftop](https://cdn.robosense.cn/AC1localization_demo.zip)  

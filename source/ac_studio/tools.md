@@ -15,20 +15,18 @@
  
 以下视频提供了标定场内相机内参标定的实时演示效果，主要使用的硬件配置为：  
 
-<div class="wy-table-responsive">
-    <table class="docutils align-default">
-        <tbody>
-            <tr class="row-even">
-                <td>计算平台</td>
-                <td>CPU: Intel® Core™ i5-1135G7 @ 2.40GHz × 8 <br> MEM: 16GB</td>
-            </tr>
-            <tr class="row-odd">
-                <td>传感器</td>
-                <td>AC1</td>
-            </tr>
-        </tbody>
-    </table>
-</div>  
+<table class="docutils align-default">
+    <tbody>
+        <tr class="row-even">
+            <td>计算平台</td>
+            <td>CPU: Intel® Core™ i5-1135G7 @ 2.40GHz × 8 <br> MEM: 16GB</td>
+        </tr>
+        <tr class="row-odd">
+            <td>传感器</td>
+            <td>AC1</td>
+        </tr>
+    </tbody>
+</table>   
 <iframe style="margin-bottom: 24px;" width="100%" height="418" src="https://cdn.robosense.cn/AC1camera_intrinsics_calib.mp4" frameborder="0" allowfullscreen></iframe>  
 
 详细代码：[AC1 Camera Calibration](http://gitlab.robosense.cn/super_sensor_sdk/ros2_sdk/calibration/-/tree/main)   

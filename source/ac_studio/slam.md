@@ -3,20 +3,18 @@
 
 以下视频提供了攀登赤湾左炮台的 SLAM 离线演示效果，主要使用的硬件配置为：  
 
-<div class="wy-table-responsive">
-    <table class="docutils align-default">
-        <tbody>
-            <tr class="row-even">
-                <td>计算平台</td>
-                <td>CPU: Intel® Core™ i7-11700 @ 2.50GHz × 16 <br> MEM: 48GB </td>
-            </tr>
-            <tr class="row-odd">
-                <td>传感器</td>
-                <td>AC1</td>
-            </tr>
-        </tbody>
-    </table>
-</div> 
+<table class="docutils align-default">
+    <tbody>
+        <tr class="row-even">
+            <td>计算平台</td>
+            <td>CPU: Intel® Core™ i7-11700 @ 2.50GHz × 16 <br> MEM: 48GB </td>
+        </tr>
+        <tr class="row-odd">
+            <td>传感器</td>
+            <td>AC1</td>
+        </tr>
+    </tbody>
+</table> 
 
 <iframe style="margin-bottom: 24px;" width="100%" height="315" src="https://cdn.robosense.cn/AC1AC1_2.0_zuopaotai.mp4" frameborder="0" allowfullscreen></iframe>  
 
