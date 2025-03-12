@@ -18,7 +18,7 @@
     </table>
 </div> 
 
-<iframe width="100%" height="315" src="https://cdn.robosense.cn/AC1AC1_2.0_zuopaotai.mp4" frameborder="0" allowfullscreen></iframe>  
+<iframe style="margin-bottom: 24px;" width="100%" height="315" src="https://cdn.robosense.cn/AC1AC1_2.0_zuopaotai.mp4" frameborder="0" allowfullscreen></iframe>  
 
 视频数据：[Chiwan Left Battery](https://cdn.robosense.cn/AC1nezha.tar.gz)    
 

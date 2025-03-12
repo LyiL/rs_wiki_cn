@@ -30,13 +30,13 @@ Mac OS 11以上 M1/2/Intel
 
  **软件使用：**  
 - 检查设备是否正常连接，检查数据流是否正常
-<iframe width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_check.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom: 24px;" width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_check.mp4" frameborder="0" allowfullscreen></iframe>
 
 - 录制
-<iframe width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_collect.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom: 24px;" width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_collect.mp4" frameborder="0" allowfullscreen></iframe>
 
 - 播放
-<iframe width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_replay.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom: 24px;" width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_replay.mp4" frameborder="0" allowfullscreen></iframe>
 
 - 离线slam
-<iframe width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_slam.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom: 24px;" width="100%" height="386" src="https://cdn.robosense.cn/AC1acview_slam.mp4" frameborder="0" allowfullscreen></iframe>
