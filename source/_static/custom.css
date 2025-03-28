@@ -30,6 +30,10 @@
   }
 }
 
+readthedocs-flyout {
+  display: none !important;
+}
+
 /* 面包屑样式调整 */
 .wy-breadcrumbs-translate {
   margin-right: 24px;
